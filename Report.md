@@ -16,4 +16,4 @@ It turned out the best error fluctuates and it seems like some better tuning met
 Proportional term in PID produces an output value that is proportional to the current road value. 
 As following Youtube video, we can see that only with P - Controller, it gives the Steering angle unstable and in seconds of driving, the car is off track.
 
-[![Alt p controller only](https://www.youtube.com/upload_thumbnail?v=xrQiyPdVDkQ&t=1&ts=1493663745846)](https://youtu.be/xrQiyPdVDkQ)
+![Alt p controller only](https://www.youtube.com/upload_thumbnail?v=xrQiyPdVDkQ&t=1&ts=1493663745846)(https://youtu.be/xrQiyPdVDkQ)
